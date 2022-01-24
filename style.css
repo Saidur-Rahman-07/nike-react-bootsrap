@@ -1,0 +1,20 @@
+html {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+header {
+  background-color: #fff9f4;
+  min-height: 90vh;
+  width: 100vw;
+}
+h1 {
+  color: #363958;
+}
+.card-image {
+  background-color: #f1f1f1;
+}
+
+.image-card img {
+  width: 80px !important;
+  height: 80px !important;
+}
